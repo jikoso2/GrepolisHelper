@@ -1,0 +1,9 @@
+{
+	"AccountConfig": 
+	{
+		"Username": "",
+		"Password": ".",
+		"World": "",
+		"WebDriverPath": "PathToChromeDriver.exe"
+	} 
+}
