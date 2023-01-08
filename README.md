@@ -7,7 +7,7 @@ This application allows you to automate boring processes in grepolis game. It ma
 * [Technologies](#technologies)
 * [Features](#features)
 * [Status](#status)
-* [Console App](#Console App)
+* [Console App](#ConsoleApp)
 * [Contact](#contact)
 
 ## General info
@@ -96,7 +96,7 @@ To-do list:
 Project is: in progress (current version can be used)
 Possibility of modification for the user.
 
-## Console App
+## ConsoleApp
 User can monitor activities in console logs.
 ![image](https://user-images.githubusercontent.com/69644118/211190782-0ea6787d-1dfa-4251-a55b-48cf4656580c.png)
 
