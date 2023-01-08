@@ -7,7 +7,7 @@ This application allows you to automate boring processes in grepolis game. It ma
 * [Technologies](#technologies)
 * [Features](#features)
 * [Status](#status)
-* [Console App](#consoleapp)
+* [Console App](#Console App)
 * [Contact](#contact)
 
 ## General info
